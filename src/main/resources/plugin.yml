@@ -1,0 +1,8 @@
+name: FeaturePath
+version: '${project.version}'
+main: me.sfclog.featurepath.Main
+api-version: 1.19
+authors: [ SFC_Log ]
+website: www.simpmc.net
+depend:
+  - PlaceholderAPI
